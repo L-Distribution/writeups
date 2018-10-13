@@ -5,11 +5,11 @@ Web - 350 Points - 573 Solves (10/12/2018)
 
 <details>
   <summary> <b>Hint</b> </summary>
-  <p>
-    - Are there any common vulnerabilities with the backend of the website?
-    - Is there anywhere that filtering doesn't get applied?
-    - The database gets reverted every 2 hours so your session might end unexpectedly. Just make another user
-  </p>
+  <ul>
+    <li>Are there any common vulnerabilities with the backend of the website?</li>
+    <li>Is there anywhere that filtering doesn't get applied?</li>
+    <li>The database gets reverted every 2 hours so your session might end unexpectedly. Just make another user</li>
+  </ul>
 </details>
 
 ## Solution
