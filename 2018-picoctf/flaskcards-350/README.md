@@ -35,5 +35,5 @@ picoCTF{secret_keys_to_the_kingdom_2a7bf92c}
 ```
 
 ## More Write-ups
--https://ctftime.org/task/6786
+-
 
