@@ -75,5 +75,5 @@ picoCTF{w3lc0m3_t0_th3_vau1t_c09f30a0}
 ```
 
 ## More Write-ups
--
+- https://ctftime.org/task/6803
 
